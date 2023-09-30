@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Capturing and Saving a Photo
 
 Take photos with the camera, add them to your photo library, and display them in your app.
@@ -15,3 +16,7 @@ Follow the action after you tap or click the shutter button, to investigate what
 ## Running the Sample Code Project
 
 Before running this sample on a physical device, select a Development Team under the Signing & Capabilities section in the project editor.
+=======
+# app-iphone-raw-heif
+This app can capture a photo in two formats at the same time, it is used to understand the heif/hevc compression in iphone
+>>>>>>> origin/main
